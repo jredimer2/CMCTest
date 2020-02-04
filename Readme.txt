@@ -8,4 +8,8 @@ Selenium Webdriver:
 I found the stable version is from year 2017, version 3.5.1 . Please download this version. Also download Selenium Support 3.5.1
 
 Logging:
-This uses the package SeleniumLog from NuGet. It is an Open Source logging I developed some years ago for Selenium Webdriver. 
+This uses the package SeleniumLog from NuGet. It is an Open Source logging I developed some years ago for Selenium Webdriver. The log.txt is in the Output folder, Debug or Release. 
+
+Unit Test Framework:
+I did not have time to create a NUnit test so in this test the Test Runner is the Main() console program. Ideally though Selenium tests should be created in one of the well-known
+Unit Test frameworks, for ease of integration with third party tools such as SpecFlow, TFS, Jenkins, etc.
