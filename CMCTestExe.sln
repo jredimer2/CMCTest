@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GumtreeWebsite", "GumtreeWebsite\GumtreeWebsite.csproj", "{6D20B24B-E029-4178-8F57-9B2FFE4FD8CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMCTestExe", "CMCTestExe\CMCTestExe.csproj", "{0A0F05B2-8BD7-4EEA-B756-D65A0D80C222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D20B24B-E029-4178-8F57-9B2FFE4FD8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D20B24B-E029-4178-8F57-9B2FFE4FD8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D20B24B-E029-4178-8F57-9B2FFE4FD8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D20B24B-E029-4178-8F57-9B2FFE4FD8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0F05B2-8BD7-4EEA-B756-D65A0D80C222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0F05B2-8BD7-4EEA-B756-D65A0D80C222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0F05B2-8BD7-4EEA-B756-D65A0D80C222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0F05B2-8BD7-4EEA-B756-D65A0D80C222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

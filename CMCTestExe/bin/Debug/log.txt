@@ -1,0 +1,19 @@
+05-Feb-20 10:10:22   |   INFO    |   Launch Chrome
+05-Feb-20 10:10:24   |   INFO    |   Goto GUMTREE URL
+05-Feb-20 10:10:32   |   INFO    |   Run Test
+05-Feb-20 10:10:32   |   INFO    |   Enter search string [Toyota]
+05-Feb-20 10:10:33   |   INFO    |   Click on Search button
+05-Feb-20 10:10:44   |   INFO    |   Currently on Page 1 .....
+05-Feb-20 10:10:45   |   INFO    |   Currently selected results per page [24 results per page]
+05-Feb-20 10:10:45   |   INFO    |   Displayed results per page [24]
+05-Feb-20 10:10:45   |   INFO    |   Actual number of results [24]
+05-Feb-20 10:10:45   |   INFO    |   Goto Page 2
+05-Feb-20 10:10:47   |   INFO    |   Goto Page 3
+05-Feb-20 10:10:51   |   INFO    |   Goto Page 4
+05-Feb-20 10:10:55   |   INFO    |   
+
+********** While on Page 4, click on random advert *******************
+05-Feb-20 10:10:56   |   INFO    |   Generated random number [5]
+05-Feb-20 10:10:56   |   INFO    |   Click on random search result
+05-Feb-20 10:10:57   |   INFO    |   Click Image button
+05-Feb-20 10:11:06   |   INFO    |   Cycle through images in gallery ..... total images = 9
